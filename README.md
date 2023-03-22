@@ -1,14 +1,14 @@
 <h1>RNRnb</h1>
 <p>A clone of AirBnb to rent has been Rnb artists, developed as a project during the Le Wagon Bootcamp.</p>
-<li>
-  <ul>A ruby on rails MVC</ul>
-  <ul>Gem Devise for authentication</ul>
-  <ul>Namespacing for different kinds of ursers (manager and renter)</ul>
-  <ul>Call to Spotify dev API for music</ul>
-  <ul>Cloudinary for hosting pictures</ul>
-  <ul>PostgreSQL for DB</ul>
-  <ul>An accepted has been front with an years 2000 inspo</ul>
-</li>
+<ul>
+  <li>A ruby on rails MVC</li>
+  <li>Gem Devise for authentication</li>
+  <li>Namespacing for different kinds of ursers (manager and renter)</li>
+  <li>Call to Spotify dev API for music</li>
+  <li>Cloudinary for hosting pictures</li>
+  <li>PostgreSQL for DB</li>
+  <li>An accepted has been front with an years 2000 inspo</li>
+</ul>
 
 <p>---</p>
 
